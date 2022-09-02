@@ -1,0 +1,1 @@
+My job is to write a function that takes the array with some objects and returns an array of titles
